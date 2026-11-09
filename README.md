@@ -1,2 +1,9 @@
-# srgan-reference-tf2-github-filesystem-pdf-tools-199-x7q2
-TensorFlow 2 community reimplementation of SRGAN (arXiv:1609.04802).
+# SRGAN Reference (TensorFlow 2)
+
+A standalone community reimplementation of:
+
+"Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network"
+
+arXiv:1609.04802 (CVPR 2017)
+
+The repository contains a residual generator, a VGG-based perceptual loss and an adversarial discriminator trained for 4x single-image super-resolution. It implements the artifact named in the paper above and nothing else.
